@@ -28,11 +28,12 @@
 
 ## ⚡ Technologies I love and use
   
-<div style="display: inline_block"><br>https://github.com/tus/official-images-docs/blob/master/postgres/logo.png
+<div style="display: inline_block"><br>https://upload.wikimedia.org/wikipedia/commons/9/9e/GeoServer_logo.png
   <img align="center" alt="js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp
   <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp
   <img align="center" alt="Python" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>&nbsp
   <img align="center" alt="Python" width="40" height="40" src="https://github.com/tus/official-images-docs/blob/master/postgres/logo.png"/>&nbsp
+  <img align="center" alt="Python" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/GeoServer_logo.png"/>&nbsp
                                                               
 </div>
 
