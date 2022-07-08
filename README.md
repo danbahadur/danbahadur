@@ -22,8 +22,8 @@
 
 <div align="center">
   <a href="https://github.com/MuriloMarquesSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuriloMarquesSantos&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMarquesSantos&layout=compact&langs_count=7&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danbahadur&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbahadur&layout=compact&langs_count=7&theme=gradient"/>
 </div>
 
 ## ⚡ Technologies I love and use
@@ -31,7 +31,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="Logo/qgis.jpg" title="Qgis" **alt="Qgis" width="50" height="40"/>
                                                               
 </div>
 
